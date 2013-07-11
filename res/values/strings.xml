@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">即时通讯</string>
+    <string name="hint_input_message">Input message</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_start_server">创建连接</string>
+    <string name="btn_start_client">加入连接</string>
+    <string name="title_activity_chat">即时通讯</string>
+    <string name="send">Send</string>
+    <string name="chat">即时通讯</string>
+
+</resources>
